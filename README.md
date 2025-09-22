@@ -12,3 +12,6 @@ Slide.brd is the schema dezigned for tinkercad.
 SlideArduino.png is a screenshot of the arduino wiring.
 
 slide.ino has the code of the system.
+
+demo video:
+https://drive.google.com/file/d/1N-9g1Y5H9_kzPKENOfmKG7FFkG8XR3ic/view?usp=drive_link
